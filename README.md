@@ -9,18 +9,18 @@ Projet réalisé **en binôme** :
 - **Asma Ben Sliman** — [github.com/asma-bensliman](https://github.com/asma-bensliman)
 - **Paola** — [github.com/Heluus](https://github.com/Heluus)
 
-## 🎯 Objectif
+## Objectif
 
 Décrire et modéliser l'évolution des émissions de chaque gaz, distinguer les gaz à **forte saisonnalité** de ceux à tendance régulière, puis produire des **prévisions sur 2 ans**.
 
-## 🧰 Stack technique
+## Stack technique
 
 - **Python** — Pandas, NumPy
 - **Visualisation** — Matplotlib
 - **Modélisation** — scikit-learn (régression linéaire, `r2_score`)
 - **Format** — Jupyter Notebook
 
-## 📊 Démarche
+## Démarche
 
 1. **Chargement & nettoyage** des 4 jeux de données (sélection des variables `month` et `average`, période et nombre d'observations)
 2. **Présentation des gaz** étudiés : formule chimique, effets sur l'atmosphère, unité de mesure
@@ -34,7 +34,7 @@ Décrire et modéliser l'évolution des émissions de chaque gaz, distinguer les
 5. **Régression** (gaz non saisonniers) : coefficient de corrélation, droites de régression **linéaire** et **exponentielle**, prévisions
 6. **Agrégation annuelle** et régression sur les moyennes par année
 
-## 📁 Contenu du dépôt
+## Contenu du dépôt
 
 | Fichier | Description |
 |---|---|
@@ -47,7 +47,7 @@ Décrire et modéliser l'évolution des émissions de chaque gaz, distinguer les
 
 > Données : Global Monitoring Laboratory (NOAA) — domaine public.
 
-## ▶️ Exécution
+## Exécution
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn jupyter
