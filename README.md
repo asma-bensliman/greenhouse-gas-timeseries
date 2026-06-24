@@ -7,7 +7,7 @@
 Projet réalisé **en binôme** :
 
 - **Asma Ben Sliman** — [github.com/asma-bensliman](https://github.com/asma-bensliman)
-- **Paola** ⚠️ *(ajouter nom complet / lien GitHub)*
+- **Paola** — [github.com/Heluus](https://github.com/Heluus)
 
 ## 🎯 Objectif
 
